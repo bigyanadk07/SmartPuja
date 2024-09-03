@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.font-incon{
+    font-family: "Inconsolata", monospace;
+}
+
+.font-play{
+    font-family: "Playfair Display", serif;
+}
+
+.top-bar{
+    background-color: #f99522;
+}
+
+.btn-color{
+    background-color: #f99522;
+}
+
+.services-bg{
+    background-color: #e9edc9;
+}
+
+.whitebg{
+    background-color: #edf2f4;
+}
+
+.graybg{
+    background-color: #e5e5e5;
+}
